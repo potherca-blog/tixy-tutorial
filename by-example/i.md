@@ -23,5 +23,5 @@ ceil(t) % 255 // the remainder of time (as an integer) divided by 255
 ```
 
 
-["https://tixy.land/?code=i%3D%3Dceil%28t%29%25255%3F-1%3A1"](https://tixy.land/?code=i%3D%3Dceil%28t%29%25255%3F-1%3A1)
+[https://tixy.land/?code=i%3D%3Dceil%28t%29%25255%3F-1%3A1](https://tixy.land/?code=i%3D%3Dceil%28t%29%25255%3F-1%3A1)
 <iframe height="350" src="https://tixy.land/?code=i%3D%3Dceil%28t%29%25255%3F-1%3A1"></iframe>
